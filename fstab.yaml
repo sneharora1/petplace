@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/HelixProjects/Shared%20Documents/sites/petplace
+  /: https://adobe.sharepoint.com/sites/AEMScreens67/Shared%20Documents/garageweek2024
 
 folders:
   /article/category/: /article/category/default
